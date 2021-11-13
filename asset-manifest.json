@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/question-answer-react/static/css/main.3d640bf4.chunk.css",
+    "main.js": "/question-answer-react/static/js/main.9ea25907.chunk.js",
+    "main.js.map": "/question-answer-react/static/js/main.9ea25907.chunk.js.map",
+    "runtime-main.js": "/question-answer-react/static/js/runtime-main.25c381e8.js",
+    "runtime-main.js.map": "/question-answer-react/static/js/runtime-main.25c381e8.js.map",
+    "static/js/2.40b1d22a.chunk.js": "/question-answer-react/static/js/2.40b1d22a.chunk.js",
+    "static/js/2.40b1d22a.chunk.js.map": "/question-answer-react/static/js/2.40b1d22a.chunk.js.map",
+    "index.html": "/question-answer-react/index.html",
+    "precache-manifest.20c1f8f048318ef8ee97edb07a3221e1.js": "/question-answer-react/precache-manifest.20c1f8f048318ef8ee97edb07a3221e1.js",
+    "service-worker.js": "/question-answer-react/service-worker.js",
+    "static/css/main.3d640bf4.chunk.css.map": "/question-answer-react/static/css/main.3d640bf4.chunk.css.map",
+    "static/js/2.40b1d22a.chunk.js.LICENSE.txt": "/question-answer-react/static/js/2.40b1d22a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25c381e8.js",
+    "static/js/2.40b1d22a.chunk.js",
+    "static/css/main.3d640bf4.chunk.css",
+    "static/js/main.9ea25907.chunk.js"
+  ]
+}
